@@ -1,0 +1,26 @@
+<style>
+body {
+      background-size: 1400px 700px;
+      background-image: url("../images/my.jpg");
+      background-size : auto;
+      }
+    
+ body  {
+           background-size: 2560px 1600px;
+      background-image: url("../images/my.jpg");
+      background-size : auto; 
+          
+            }
+            .aboutme p{
+    padding-top: 75px;
+    color: #E5EFFF;
+    font-weight: 200;
+    letter-spacing: 4px;
+    margin: auto;
+    text-align: justify;
+    font-size: 1.3em;
+    width: 70%;
+    position: relative;
+    }
+            
+   </style>
