@@ -11,14 +11,15 @@ body {
       background-size : auto; 
           
             }
-            .aboutme p{
+  .aboutme p{
     padding-top: 75px;
-    color: #E5EFFF;
+    color: whitesmoke;
     font-weight: 200;
     letter-spacing: 4px;
+    font-family:  'Times New Roman', Times, serif;
     margin: auto;
     text-align: justify;
-    font-size: 1.3em;
+    font-size: 20px;
     width: 70%;
     position: relative;
     }

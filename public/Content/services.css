@@ -13,7 +13,7 @@ body {
             }
     section {
         padding-top: 75px;
-        font-family: 'Abel', sans-serif;
+        font-family: 'Times New Roman', Times, serif;
         letter-spacing:2px;
         font-size:1.4em;
         color:#E5EFFF;
@@ -22,5 +22,16 @@ body {
         font-size:1.4em;
         color:#E5EFFF;
     }
-
+    i.fa.fa-cloud.fa-stack-1x.text-primary {
+    color: darkred;
+    }
+    i.fa.fa-database.fa-stack-1x.text-primary {
+    color: darkred;
+    }
+    i.fa.fa-html5.fa-stack-1x.text-primary {
+    color: darkred;
+    }
+i.fa.fa-paint-brush.fa-stack-1x.text-primary {
+    color: darkred;
+        }
 </style>

@@ -1,24 +1,12 @@
 <style>
- body  {
-          background-image: url("../images/wallpaper.png");
-          background-repeat: no-repeat;
-          background-size:cover;
-            }
-
-.blog-masthead {
-   
-  -webkit-box-shadow: inset 0 -2px 2px rgba(0,0,0,.1);
-          box-shadow: inset 0 -2px 2px rgba(0,0,0,.1);
-}
  
-
 /* Nav links */
 .blog-nav-item {
   position: relative;
   display: inline-block;
   padding: 10px;
   font-weight: 500;
-  color: #cdddeb;
+  color: snow;
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
@@ -26,11 +14,11 @@
   text-decoration: none;
 }
 
-/* Active state gets a caret at the bottom */
-.blog-nav .active {
-  color: #fff;
+a.blog-nav-item{
+    color: whitesmoke;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
-
 
 /*
  * Blog name and description
@@ -99,7 +87,7 @@
 }
 a {
   font-weight: 500;
-  color: #e5e5e5;
+  color: whitesmoke;
   }
 .kkk {
   width: auto;
@@ -118,19 +106,5 @@ a {
 /*
  * Pages
  */
-
-
-input, textarea {
-    align:"center";
-	width:439px;
-    height:35px;
-    background:#efefef;
-    border:1px solid #dedede;
-    padding:10px;
-    margin-top:2px;
-    font-size:0.9em;
-    color:#3a3a3a;
-    border-radius:8px;
-}
 
 </style>
