@@ -20,19 +20,5 @@ section {
         font-size:1.4em;
         color:#E5EFFF;
           }
- 
-/* Font-awesome styles  */
-i {
-        font-size:1.4em;
-        color:#E5EFFF;
-    }
-i.fa.fa-database.fa-stack-1x.text-primary {
-    color: darkred;
-    }
-i.fa.fa-html5.fa-stack-1x.text-primary {
-    color: darkred;
-    }
-i.fa.fa-paint-brush.fa-stack-1x.text-primary {
-    color: darkred;
-        }
+
 </style>
