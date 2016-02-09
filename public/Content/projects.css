@@ -11,20 +11,30 @@ body {
       background-size : auto; 
           
             }
-#f1_container {
-       
-        margin-top: 50px;
-        margin-left: 50px;
-}
+
 .img-circle {
+                   margin-left: 50px;
                    margin-top: 50px;
 }
-p{
-    font-family:  'Times New Roman', Times, serif;
-    font-size: 25px;
-    color: whitesmoke;
-}
-      
 
+ 
+   
+   div.col-md-4.col-sm-6 p{
+       text-decoration: none;
+      padding-left: 60px;
+       padding-top: 300px;
+       font-size: 15px;
+       color: whitesmoke;
+       font-family: 'Times New Roman', Times, serif; 
+   }
+ 
+section {
+        padding-top: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing:2px;
+        font-size:1.4em;
+        color:#E5EFFF;
+    }
+ 
             
 </style>

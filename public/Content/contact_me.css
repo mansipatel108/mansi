@@ -23,9 +23,15 @@ body {
         font-size:1.4em;
         color:#E5EFFF;
     }
+    section {
+        padding-top: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing:2px;
+        font-size:1.4em;
+        color:#E5EFFF;
+    }
     contact {
-    
-    align:"center";
+   align:"center";
     }
     
     
