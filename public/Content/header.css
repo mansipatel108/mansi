@@ -20,9 +20,7 @@ a.blog-nav-item{
     font-size: 30px;
 }
 
-/*
- * Blog name and description
- */
+/* Blog name and description */
 
 .blog-header {
   padding-top: 20px;
@@ -39,10 +37,7 @@ a.blog-nav-item{
   color: #999;
 }
 
-
-/*
- * Main column and sidebar layout
- */
+/* Main column and sidebar layout */
 
 .blog-main {
   font-size: 18px;
@@ -69,9 +64,7 @@ a.blog-nav-item{
       size: 10px 60px;
 }
 
-/*
- * Footer
- */
+/* Footer */
 
 .navbar{
   color: #999; 
@@ -102,9 +95,5 @@ a {
     max-width: none;
     margin-top: 0px;
 }
-
-/*
- * Pages
- */
 
 </style>

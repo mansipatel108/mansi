@@ -1,4 +1,5 @@
 <style>
+/* Body styles */
 body {
       background-size: 1400px 700px;
       background-image: url("../images/my.jpg");
@@ -11,7 +12,8 @@ body {
       background-image: url("../images/my.jpg");
       background-size : cover; 
              }
-         
+
+/* Header  */         
 .header {
     color: white;
     margin-left: 50px;
@@ -33,8 +35,9 @@ body {
     margin-top: 1%;
     letter-spacing: 7px;
     }
-    
-    .css-typing
+ 
+/* CSS typing effect */    
+.css-typing
 {
     width: 30em;
     white-space:nowrap;

@@ -1,4 +1,5 @@
 <style>
+/* Nav links */
 body {
       background-size: 1400px 700px;
       background-image: url("../images/my.jpg");
@@ -6,29 +7,29 @@ body {
       }
     
  body  {
-           background-size: 2560px 1600px;
+      background-size: 2560px 1600px;
       background-image: url("../images/my.jpg");
       background-size : auto; 
-          
-            }
-    section {
+        }
+            
+/* Section styles  */
+section {
         padding-top: 20px;
         font-family: 'Times New Roman', Times, serif;
         letter-spacing:2px;
         font-size:1.4em;
         color:#E5EFFF;
-    }
-    i {
+          }
+ 
+/* Font-awesome styles  */
+i {
         font-size:1.4em;
         color:#E5EFFF;
     }
-    i.fa.fa-cloud.fa-stack-1x.text-primary {
+i.fa.fa-database.fa-stack-1x.text-primary {
     color: darkred;
     }
-    i.fa.fa-database.fa-stack-1x.text-primary {
-    color: darkred;
-    }
-    i.fa.fa-html5.fa-stack-1x.text-primary {
+i.fa.fa-html5.fa-stack-1x.text-primary {
     color: darkred;
     }
 i.fa.fa-paint-brush.fa-stack-1x.text-primary {

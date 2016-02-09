@@ -1,4 +1,5 @@
 <style>
+/* Nav links */
 body {
       background-size: 1400px 700px;
       background-image: url("../images/my.jpg");
@@ -9,32 +10,32 @@ body {
       background-size: 2560px 1600px;
       background-image: url("../images/my.jpg");
       background-size : auto; 
-          
-            }
+       }
+            
+/* Image styles */
 
 .img-circle {
-                   margin-left: 50px;
-                   margin-top: 50px;
-}
+       margin-left: 50px;
+       margin-top: 50px;
+        }
 
- 
-   
-   div.col-md-4.col-sm-6 p{
+div.col-md-4.col-sm-6 p{
        text-decoration: none;
-      padding-left: 60px;
+       padding-left: 60px;
        padding-top: 300px;
        font-size: 15px;
        color: whitesmoke;
        font-family: 'Times New Roman', Times, serif; 
-   }
- 
+         }
+         
+ /* Section styles  */
 section {
         padding-top: 20px;
         font-family: 'Times New Roman', Times, serif;
         letter-spacing:2px;
         font-size:1.4em;
         color:#E5EFFF;
-    }
+         }
  
             
 </style>
