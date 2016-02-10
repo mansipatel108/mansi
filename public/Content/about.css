@@ -35,5 +35,18 @@ body {
     width: 80%;
     position: relative;
     }
+
+/* Links */ 
+ p a:link {
+    color: white;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+ p a:visited {
+    color: white;
+    text-decoration: none;
+}
             
    </style>
