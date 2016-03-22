@@ -8,6 +8,10 @@ var bodyParser = require('body-parser');
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
+// flash messages
+var session = require('express-session');
+var flash = require('connect-flash');
+
 var app = express();
 
 // view engine setup
@@ -31,6 +35,18 @@ app.use(function(req, res, next) {
   err.status = 404;
   next(err);
 });
+
+// Initialize Session
+app.use(session({
+    secret: 'someSecret',
+    saveUninitialized: false,
+    resave: true
+}));
+
+// Initialize Flash Messages
+app.use(flash());
+
+
 
 // error handlers
 
