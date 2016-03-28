@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var sendgrid = require('sendgrid')('mansipatel108', 'mansipatel1996');
+var sendgrid = require('sendgrid')('Username', 'password');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
