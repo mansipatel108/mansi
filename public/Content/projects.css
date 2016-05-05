@@ -14,28 +14,47 @@ body {
             
 /* Image styles */
 
-.img-circle {
+.img-rounded {
        margin-left: 50px;
        margin-top: 50px;
+        border: 3px solid black;
+        border-radius: 100%;
         }
 
-div.col-md-4.col-sm-6 p{
+div.row p{
        text-decoration: none;
        padding-left: 60px;
-       padding-top: 300px;
        font-size: 15px;
+       color: whitesmoke;
+       font-weight: 200;
+       font-family: 'Times New Roman', Times, serif; 
+         }
+
+div.row h5{
+       text-decoration: none;
+       padding-left: 60px;
+       font-size: 20px;
+       font-weight: 900;
        color: whitesmoke;
        font-family: 'Times New Roman', Times, serif; 
          }
 
-div.col-md-4.col-sm-6 a:link {
+div.row a:link {
+    font-size: 15px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif; 
     text-decoration: none;
-    font-weight: 900;
+    font-weight: 200;
     font-size: 15px;
 }
 
-div.col-md-4.col-sm-6 a:visited {
+div.row a:visited {
+    font-size: 15px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif; 
     text-decoration: none;
+    font-weight: 200;
+    font-size: 15px;
 }
          
  /* Section styles  */
